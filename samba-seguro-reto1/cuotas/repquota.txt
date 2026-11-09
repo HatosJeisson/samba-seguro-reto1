@@ -1,0 +1,4 @@
+Usuario   usado(KiB)  blando  duro(KiB)
+laura          24        0    153600
+dana           16        0    204800
+carla           0        0    307200

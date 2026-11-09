@@ -1,0 +1,4 @@
+Predeterminado: deny (entrantes), allow (salientes)
+[1] 445/tcp on tailscale0        ALLOW IN   Anywhere
+[2] 22/tcp on tailscale0         ALLOW IN   100.79.91.73
+[3] 445/tcp (v6) on tailscale0   ALLOW IN   Anywhere (v6)

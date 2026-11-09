@@ -1,0 +1,14 @@
+# file: /srv/samba/contabilidad
+# owner: root
+# group: contabilidad
+# flags: -s-
+user::rwx
+user:carla:r-x
+group::rwx
+mask::rwx
+other::---
+default:user::rwx
+default:user:carla:r-x
+default:group::rwx
+default:mask::rwx
+default:other::---

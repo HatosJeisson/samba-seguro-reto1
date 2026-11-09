@@ -1,0 +1,3 @@
+# sudo tailscale serve --bg --tcp=445 tcp://127.0.0.1:445
+|-- tcp://100.90.231.14:445 (tailnet only)
+|--> tcp://127.0.0.1:445
